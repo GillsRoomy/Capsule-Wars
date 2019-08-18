@@ -1,6 +1,6 @@
-"Shrewd Mouse" --- Technical support
+"Hundred Klotski" --- Technical support
 
-We will provide technical support for this app（Shrewd Mouse）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GillsRommy@gmail.com
+We will provide technical support for this app（Hundred Klotski）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GillsRommy@gmail.com
 
 
 
