@@ -1,6 +1,6 @@
-"Hundred Klotski" --- Technical support
+"Yellow Flutter" --- Technical support
 
-We will provide technical support for this app（Hundred Klotski）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GillsRommy@gmail.com
+We will provide technical support for this app（Yellow Flutter）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GillsRommyyf@gmail.com
 
 
 
