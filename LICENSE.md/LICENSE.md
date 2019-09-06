@@ -1,6 +1,6 @@
-"Yellow Flutter" --- Technical support
+"Capsule Wars" --- Technical support
 
-We will provide technical support for this app（Yellow Flutter）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GillsRommyyf@gmail.com
+We will provide technical support for this app（Capsule Wars）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GillsRommycw@gmail.com
 
 
 
