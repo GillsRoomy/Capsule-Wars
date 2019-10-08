@@ -1,8 +1,8 @@
-# Custom-Snake
+# Square Puzzle
 
-"Custom Snake" --- Technical support
+"Square Puzzle" Technical support
 
-We will provide technical support for this app（Custom Snake）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: GillsRommycs@gmail.com
+We will provide technical support for this app, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: squarepuzzleDev@gmail.com
 
 
 
